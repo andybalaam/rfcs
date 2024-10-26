@@ -89,7 +89,7 @@ incorrectly, and remind the user that derive macros only append new items.
 This feature will not be sufficient for *all* uses of proc macros in the
 ecosystem, and its existence may create social pressure for crate maintainers
 to switch even if the result is harder to maintain. We can and should attempt
-to avert and such pressure, such as by providing a post with guidance that
+to avert any such pressure, such as by providing a post with guidance that
 crate maintainers can link to when responding to such requests.
 
 Before stabilizing this feature, we should receive feedback from crate
